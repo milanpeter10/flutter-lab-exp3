@@ -23,8 +23,8 @@ void main() {
 // -------------------------------------------------------
 const Color kPaper = Color(0xFFF6EFE6);
 const Color kInk = Color(0xFF2B2A33);
-const Color kTerracotta = Color(0xFFD9593D);
-const Color kSage = Color(0xFF5B8E7D);
+const Color kTerracotta = Color(0xFF3D7EAA);
+const Color kSage = Color(0xFFE07A5F);
 const Color kCard = Color(0xFFFFFBF6);
 const Color kMuted = Color(0xFF8A8478);
 
